@@ -1,0 +1,68 @@
+VehicleID,HubID,VehicleType,CapacityKg,FuelL100km
+1,1,Furqon,800,13.0
+2,1,Motosiklet,20,3.5
+3,1,Furqon,800,13.0
+4,1,Kiçik Furqon,200,9.0
+5,1,Kiçik Furqon,200,9.0
+6,1,Motosiklet,20,3.5
+7,1,Kiçik Furqon,200,9.0
+8,1,Motosiklet,20,3.5
+9,1,Motosiklet,20,3.5
+10,1,Furqon,800,13.0
+11,1,Motosiklet,20,3.5
+12,1,Furqon,800,13.0
+13,1,Yük Maşını,3000,22.0
+14,1,Motosiklet,20,3.5
+15,2,Motosiklet,20,3.5
+16,2,Motosiklet,20,3.5
+17,2,Kiçik Furqon,200,9.0
+18,2,Kiçik Furqon,200,9.0
+19,2,Motosiklet,20,3.5
+20,2,Kiçik Furqon,200,9.0
+21,2,Motosiklet,20,3.5
+22,2,Motosiklet,20,3.5
+23,2,Kiçik Furqon,200,9.0
+24,2,Kiçik Furqon,200,9.0
+25,2,Furqon,800,13.0
+26,3,Kiçik Furqon,200,9.0
+27,3,Yük Maşını,3000,22.0
+28,3,Kiçik Furqon,200,9.0
+29,3,Furqon,800,13.0
+30,3,Furqon,800,13.0
+31,3,Kiçik Furqon,200,9.0
+32,3,Motosiklet,20,3.5
+33,3,Yük Maşını,3000,22.0
+34,3,Kiçik Furqon,200,9.0
+35,3,Kiçik Furqon,200,9.0
+36,4,Motosiklet,20,3.5
+37,4,Furqon,800,13.0
+38,4,Kiçik Furqon,200,9.0
+39,4,Motosiklet,20,3.5
+40,4,Kiçik Furqon,200,9.0
+41,4,Motosiklet,20,3.5
+42,4,Yük Maşını,3000,22.0
+43,4,Motosiklet,20,3.5
+44,4,Furqon,800,13.0
+45,5,Kiçik Furqon,200,9.0
+46,5,Motosiklet,20,3.5
+47,5,Kiçik Furqon,200,9.0
+48,5,Motosiklet,20,3.5
+49,5,Furqon,800,13.0
+50,5,Kiçik Furqon,200,9.0
+51,5,Kiçik Furqon,200,9.0
+52,5,Yük Maşını,3000,22.0
+53,5,Furqon,800,13.0
+54,6,Motosiklet,20,3.5
+55,6,Motosiklet,20,3.5
+56,6,Motosiklet,20,3.5
+57,6,Motosiklet,20,3.5
+58,6,Kiçik Furqon,200,9.0
+59,6,Motosiklet,20,3.5
+60,6,Furqon,800,13.0
+61,6,Kiçik Furqon,200,9.0
+62,6,Motosiklet,20,3.5
+63,6,Kiçik Furqon,200,9.0
+64,6,Motosiklet,20,3.5
+65,6,Furqon,800,13.0
+66,6,Motosiklet,20,3.5
+67,6,Yük Maşını,3000,22.0
