@@ -1,0 +1,1501 @@
+CustomerID,Segment,JoinYear
+1,E-ticarət,2023
+2,Fərdi,2024
+3,Korporativ,2024
+4,Korporativ,2024
+5,Korporativ,2025
+6,Korporativ,2023
+7,Pərakəndə (Retail),2023
+8,E-ticarət,2025
+9,E-ticarət,2024
+10,Korporativ,2023
+11,Fərdi,2024
+12,Korporativ,2024
+13,E-ticarət,2024
+14,Pərakəndə (Retail),2024
+15,Pərakəndə (Retail),2023
+16,E-ticarət,2024
+17,E-ticarət,2024
+18,Korporativ,2024
+19,Korporativ,2024
+20,E-ticarət,2024
+21,E-ticarət,2022
+22,E-ticarət,2024
+23,E-ticarət,2024
+24,Fərdi,2024
+25,Fərdi,2024
+26,E-ticarət,2024
+27,Fərdi,2023
+28,Pərakəndə (Retail),2024
+29,Korporativ,2022
+30,Korporativ,2023
+31,E-ticarət,2024
+32,E-ticarət,2024
+33,Pərakəndə (Retail),2023
+34,Korporativ,2022
+35,E-ticarət,2024
+36,Fərdi,2022
+37,Pərakəndə (Retail),2023
+38,E-ticarət,2022
+39,Fərdi,2023
+40,Fərdi,2023
+41,Fərdi,2023
+42,E-ticarət,2023
+43,Pərakəndə (Retail),2025
+44,Korporativ,2024
+45,Pərakəndə (Retail),2024
+46,Fərdi,2022
+47,Pərakəndə (Retail),2023
+48,Fərdi,2024
+49,Fərdi,2022
+50,Fərdi,2023
+51,Korporativ,2024
+52,E-ticarət,2024
+53,E-ticarət,2022
+54,Fərdi,2023
+55,E-ticarət,2024
+56,Korporativ,2022
+57,E-ticarət,2024
+58,Korporativ,2024
+59,Fərdi,2025
+60,Fərdi,2023
+61,E-ticarət,2024
+62,Fərdi,2024
+63,Korporativ,2023
+64,E-ticarət,2022
+65,Pərakəndə (Retail),2024
+66,Korporativ,2023
+67,E-ticarət,2023
+68,Pərakəndə (Retail),2022
+69,E-ticarət,2024
+70,E-ticarət,2024
+71,Korporativ,2024
+72,E-ticarət,2023
+73,E-ticarət,2023
+74,Korporativ,2024
+75,Pərakəndə (Retail),2023
+76,Pərakəndə (Retail),2023
+77,Fərdi,2024
+78,Pərakəndə (Retail),2025
+79,Pərakəndə (Retail),2024
+80,E-ticarət,2024
+81,E-ticarət,2025
+82,Korporativ,2023
+83,E-ticarət,2024
+84,Korporativ,2025
+85,Korporativ,2023
+86,Pərakəndə (Retail),2024
+87,Fərdi,2024
+88,Korporativ,2024
+89,E-ticarət,2024
+90,E-ticarət,2025
+91,Fərdi,2024
+92,Fərdi,2022
+93,E-ticarət,2025
+94,Pərakəndə (Retail),2023
+95,E-ticarət,2023
+96,E-ticarət,2023
+97,E-ticarət,2023
+98,E-ticarət,2023
+99,Fərdi,2025
+100,Pərakəndə (Retail),2024
+101,E-ticarət,2024
+102,Pərakəndə (Retail),2022
+103,Fərdi,2025
+104,Fərdi,2025
+105,E-ticarət,2024
+106,E-ticarət,2022
+107,E-ticarət,2022
+108,E-ticarət,2023
+109,E-ticarət,2022
+110,Pərakəndə (Retail),2023
+111,E-ticarət,2025
+112,E-ticarət,2023
+113,E-ticarət,2022
+114,E-ticarət,2023
+115,E-ticarət,2022
+116,Korporativ,2022
+117,E-ticarət,2023
+118,E-ticarət,2023
+119,E-ticarət,2024
+120,Pərakəndə (Retail),2025
+121,E-ticarət,2023
+122,E-ticarət,2023
+123,E-ticarət,2024
+124,Fərdi,2023
+125,E-ticarət,2023
+126,Korporativ,2025
+127,Fərdi,2022
+128,E-ticarət,2024
+129,Fərdi,2024
+130,Korporativ,2023
+131,E-ticarət,2023
+132,E-ticarət,2024
+133,Pərakəndə (Retail),2022
+134,Korporativ,2023
+135,Fərdi,2024
+136,E-ticarət,2024
+137,Pərakəndə (Retail),2022
+138,E-ticarət,2025
+139,Fərdi,2023
+140,Korporativ,2024
+141,E-ticarət,2024
+142,E-ticarət,2024
+143,E-ticarət,2023
+144,E-ticarət,2025
+145,E-ticarət,2022
+146,Pərakəndə (Retail),2024
+147,Korporativ,2023
+148,Pərakəndə (Retail),2023
+149,Fərdi,2023
+150,Korporativ,2025
+151,Pərakəndə (Retail),2025
+152,Pərakəndə (Retail),2023
+153,E-ticarət,2022
+154,E-ticarət,2024
+155,E-ticarət,2023
+156,E-ticarət,2022
+157,E-ticarət,2024
+158,E-ticarət,2024
+159,Fərdi,2025
+160,Pərakəndə (Retail),2023
+161,E-ticarət,2023
+162,E-ticarət,2024
+163,E-ticarət,2024
+164,Korporativ,2024
+165,Korporativ,2024
+166,Fərdi,2023
+167,E-ticarət,2024
+168,Pərakəndə (Retail),2023
+169,Fərdi,2022
+170,E-ticarət,2024
+171,Pərakəndə (Retail),2023
+172,Korporativ,2022
+173,Korporativ,2025
+174,Korporativ,2023
+175,Pərakəndə (Retail),2024
+176,Pərakəndə (Retail),2023
+177,Pərakəndə (Retail),2024
+178,Fərdi,2022
+179,Pərakəndə (Retail),2023
+180,Fərdi,2025
+181,Pərakəndə (Retail),2024
+182,Pərakəndə (Retail),2023
+183,Korporativ,2023
+184,E-ticarət,2025
+185,Pərakəndə (Retail),2024
+186,Korporativ,2024
+187,Korporativ,2024
+188,Fərdi,2022
+189,E-ticarət,2022
+190,Korporativ,2024
+191,Pərakəndə (Retail),2023
+192,Pərakəndə (Retail),2023
+193,Korporativ,2025
+194,Fərdi,2024
+195,Pərakəndə (Retail),2024
+196,E-ticarət,2024
+197,E-ticarət,2024
+198,Pərakəndə (Retail),2022
+199,E-ticarət,2023
+200,E-ticarət,2023
+201,Korporativ,2023
+202,E-ticarət,2024
+203,Korporativ,2023
+204,Korporativ,2023
+205,Korporativ,2023
+206,E-ticarət,2022
+207,Pərakəndə (Retail),2023
+208,E-ticarət,2023
+209,Pərakəndə (Retail),2023
+210,E-ticarət,2022
+211,Fərdi,2023
+212,Korporativ,2024
+213,Fərdi,2023
+214,Pərakəndə (Retail),2023
+215,E-ticarət,2024
+216,Fərdi,2023
+217,E-ticarət,2025
+218,E-ticarət,2024
+219,E-ticarət,2023
+220,Korporativ,2024
+221,Korporativ,2023
+222,E-ticarət,2024
+223,Fərdi,2023
+224,E-ticarət,2025
+225,E-ticarət,2023
+226,E-ticarət,2024
+227,E-ticarət,2024
+228,Korporativ,2022
+229,Pərakəndə (Retail),2023
+230,Korporativ,2024
+231,E-ticarət,2024
+232,E-ticarət,2023
+233,E-ticarət,2024
+234,Fərdi,2025
+235,E-ticarət,2025
+236,Korporativ,2022
+237,Fərdi,2024
+238,Korporativ,2023
+239,Fərdi,2025
+240,E-ticarət,2023
+241,Pərakəndə (Retail),2022
+242,Korporativ,2024
+243,Pərakəndə (Retail),2023
+244,E-ticarət,2025
+245,E-ticarət,2025
+246,E-ticarət,2024
+247,Pərakəndə (Retail),2022
+248,Fərdi,2024
+249,Pərakəndə (Retail),2022
+250,E-ticarət,2022
+251,Fərdi,2024
+252,E-ticarət,2023
+253,E-ticarət,2023
+254,E-ticarət,2025
+255,Pərakəndə (Retail),2023
+256,E-ticarət,2023
+257,Korporativ,2025
+258,Fərdi,2022
+259,E-ticarət,2024
+260,Korporativ,2025
+261,E-ticarət,2025
+262,E-ticarət,2024
+263,Korporativ,2023
+264,E-ticarət,2023
+265,Pərakəndə (Retail),2024
+266,Korporativ,2025
+267,Korporativ,2024
+268,Pərakəndə (Retail),2023
+269,Korporativ,2022
+270,Korporativ,2022
+271,Korporativ,2024
+272,E-ticarət,2023
+273,E-ticarət,2025
+274,Fərdi,2024
+275,Pərakəndə (Retail),2023
+276,E-ticarət,2024
+277,Korporativ,2023
+278,E-ticarət,2024
+279,Fərdi,2024
+280,E-ticarət,2024
+281,E-ticarət,2024
+282,E-ticarət,2023
+283,Korporativ,2022
+284,Fərdi,2024
+285,E-ticarət,2022
+286,Pərakəndə (Retail),2023
+287,E-ticarət,2022
+288,Fərdi,2024
+289,E-ticarət,2023
+290,E-ticarət,2024
+291,Pərakəndə (Retail),2025
+292,Fərdi,2022
+293,Fərdi,2022
+294,Korporativ,2023
+295,Fərdi,2025
+296,E-ticarət,2023
+297,Fərdi,2023
+298,Korporativ,2022
+299,Pərakəndə (Retail),2024
+300,Fərdi,2023
+301,Pərakəndə (Retail),2024
+302,Korporativ,2025
+303,Korporativ,2023
+304,Fərdi,2024
+305,E-ticarət,2022
+306,Fərdi,2025
+307,Pərakəndə (Retail),2024
+308,E-ticarət,2025
+309,Pərakəndə (Retail),2022
+310,Korporativ,2023
+311,Pərakəndə (Retail),2023
+312,Pərakəndə (Retail),2023
+313,E-ticarət,2023
+314,Korporativ,2023
+315,Fərdi,2022
+316,E-ticarət,2023
+317,Korporativ,2024
+318,E-ticarət,2023
+319,Korporativ,2022
+320,Korporativ,2023
+321,Korporativ,2022
+322,E-ticarət,2025
+323,Pərakəndə (Retail),2022
+324,E-ticarət,2024
+325,E-ticarət,2025
+326,E-ticarət,2024
+327,E-ticarət,2024
+328,Korporativ,2024
+329,Pərakəndə (Retail),2025
+330,Pərakəndə (Retail),2024
+331,E-ticarət,2024
+332,Fərdi,2024
+333,Pərakəndə (Retail),2024
+334,E-ticarət,2024
+335,Fərdi,2023
+336,Fərdi,2023
+337,E-ticarət,2022
+338,E-ticarət,2022
+339,Fərdi,2023
+340,Pərakəndə (Retail),2022
+341,E-ticarət,2024
+342,Pərakəndə (Retail),2023
+343,Fərdi,2024
+344,Pərakəndə (Retail),2022
+345,Pərakəndə (Retail),2023
+346,Fərdi,2024
+347,E-ticarət,2024
+348,E-ticarət,2022
+349,Pərakəndə (Retail),2025
+350,Fərdi,2025
+351,E-ticarət,2023
+352,Korporativ,2023
+353,Pərakəndə (Retail),2025
+354,Korporativ,2024
+355,Pərakəndə (Retail),2024
+356,Fərdi,2024
+357,Pərakəndə (Retail),2023
+358,Korporativ,2023
+359,Korporativ,2023
+360,Korporativ,2024
+361,E-ticarət,2024
+362,E-ticarət,2024
+363,Korporativ,2023
+364,E-ticarət,2023
+365,E-ticarət,2023
+366,Korporativ,2024
+367,Korporativ,2024
+368,E-ticarət,2022
+369,Pərakəndə (Retail),2025
+370,Pərakəndə (Retail),2022
+371,E-ticarət,2025
+372,Fərdi,2022
+373,Korporativ,2024
+374,Pərakəndə (Retail),2022
+375,Korporativ,2025
+376,Fərdi,2023
+377,Pərakəndə (Retail),2022
+378,Pərakəndə (Retail),2023
+379,Pərakəndə (Retail),2023
+380,E-ticarət,2023
+381,E-ticarət,2025
+382,Pərakəndə (Retail),2023
+383,Korporativ,2024
+384,Pərakəndə (Retail),2024
+385,E-ticarət,2024
+386,Korporativ,2022
+387,E-ticarət,2023
+388,Korporativ,2024
+389,Pərakəndə (Retail),2025
+390,Korporativ,2023
+391,Korporativ,2023
+392,Korporativ,2023
+393,E-ticarət,2025
+394,Pərakəndə (Retail),2023
+395,E-ticarət,2023
+396,Korporativ,2025
+397,Korporativ,2022
+398,Pərakəndə (Retail),2022
+399,Korporativ,2024
+400,Fərdi,2025
+401,Fərdi,2023
+402,E-ticarət,2023
+403,E-ticarət,2023
+404,Korporativ,2023
+405,E-ticarət,2024
+406,Pərakəndə (Retail),2023
+407,Fərdi,2023
+408,E-ticarət,2023
+409,E-ticarət,2024
+410,E-ticarət,2024
+411,Pərakəndə (Retail),2025
+412,Korporativ,2022
+413,E-ticarət,2024
+414,Fərdi,2024
+415,Pərakəndə (Retail),2023
+416,E-ticarət,2023
+417,Pərakəndə (Retail),2023
+418,Pərakəndə (Retail),2023
+419,E-ticarət,2023
+420,E-ticarət,2022
+421,E-ticarət,2023
+422,E-ticarət,2024
+423,Fərdi,2023
+424,Fərdi,2024
+425,E-ticarət,2024
+426,E-ticarət,2025
+427,E-ticarət,2024
+428,E-ticarət,2022
+429,Fərdi,2024
+430,E-ticarət,2022
+431,E-ticarət,2023
+432,E-ticarət,2025
+433,Pərakəndə (Retail),2023
+434,E-ticarət,2023
+435,Pərakəndə (Retail),2024
+436,E-ticarət,2025
+437,Pərakəndə (Retail),2024
+438,Pərakəndə (Retail),2023
+439,E-ticarət,2024
+440,E-ticarət,2023
+441,Fərdi,2024
+442,Fərdi,2025
+443,Korporativ,2024
+444,Korporativ,2025
+445,Fərdi,2022
+446,Korporativ,2024
+447,E-ticarət,2024
+448,Fərdi,2022
+449,E-ticarət,2025
+450,Korporativ,2023
+451,E-ticarət,2024
+452,E-ticarət,2024
+453,E-ticarət,2024
+454,Pərakəndə (Retail),2022
+455,E-ticarət,2024
+456,E-ticarət,2024
+457,E-ticarət,2025
+458,Korporativ,2023
+459,Fərdi,2023
+460,Korporativ,2024
+461,Korporativ,2023
+462,Fərdi,2024
+463,Korporativ,2024
+464,E-ticarət,2025
+465,E-ticarət,2024
+466,E-ticarət,2024
+467,E-ticarət,2022
+468,Korporativ,2022
+469,Pərakəndə (Retail),2023
+470,E-ticarət,2023
+471,Korporativ,2024
+472,Pərakəndə (Retail),2024
+473,E-ticarət,2024
+474,Fərdi,2024
+475,Korporativ,2025
+476,E-ticarət,2024
+477,Pərakəndə (Retail),2024
+478,Korporativ,2024
+479,Korporativ,2023
+480,Korporativ,2022
+481,Korporativ,2023
+482,Pərakəndə (Retail),2025
+483,E-ticarət,2024
+484,E-ticarət,2023
+485,E-ticarət,2023
+486,Pərakəndə (Retail),2024
+487,E-ticarət,2022
+488,Fərdi,2023
+489,Korporativ,2025
+490,Pərakəndə (Retail),2023
+491,Fərdi,2022
+492,Fərdi,2024
+493,Fərdi,2025
+494,E-ticarət,2024
+495,Korporativ,2023
+496,E-ticarət,2023
+497,E-ticarət,2023
+498,Korporativ,2024
+499,Korporativ,2024
+500,E-ticarət,2022
+501,Korporativ,2025
+502,Fərdi,2022
+503,Korporativ,2023
+504,Pərakəndə (Retail),2022
+505,Pərakəndə (Retail),2023
+506,Fərdi,2024
+507,Pərakəndə (Retail),2024
+508,Pərakəndə (Retail),2023
+509,Fərdi,2024
+510,Fərdi,2022
+511,E-ticarət,2024
+512,E-ticarət,2025
+513,E-ticarət,2023
+514,E-ticarət,2024
+515,Pərakəndə (Retail),2023
+516,Pərakəndə (Retail),2022
+517,Fərdi,2023
+518,E-ticarət,2024
+519,Fərdi,2024
+520,Pərakəndə (Retail),2022
+521,Pərakəndə (Retail),2024
+522,Fərdi,2024
+523,Pərakəndə (Retail),2024
+524,E-ticarət,2024
+525,Fərdi,2024
+526,E-ticarət,2022
+527,E-ticarət,2023
+528,Fərdi,2025
+529,E-ticarət,2023
+530,Pərakəndə (Retail),2025
+531,E-ticarət,2024
+532,Fərdi,2022
+533,E-ticarət,2022
+534,Fərdi,2023
+535,Pərakəndə (Retail),2025
+536,E-ticarət,2023
+537,Korporativ,2023
+538,Fərdi,2023
+539,Korporativ,2022
+540,E-ticarət,2023
+541,Korporativ,2022
+542,Korporativ,2024
+543,Pərakəndə (Retail),2023
+544,Pərakəndə (Retail),2023
+545,E-ticarət,2023
+546,E-ticarət,2023
+547,Pərakəndə (Retail),2025
+548,Korporativ,2024
+549,E-ticarət,2022
+550,Fərdi,2024
+551,Pərakəndə (Retail),2023
+552,Pərakəndə (Retail),2022
+553,Fərdi,2025
+554,Korporativ,2024
+555,Pərakəndə (Retail),2025
+556,Korporativ,2023
+557,E-ticarət,2024
+558,E-ticarət,2023
+559,Korporativ,2023
+560,Pərakəndə (Retail),2024
+561,E-ticarət,2023
+562,E-ticarət,2024
+563,E-ticarət,2024
+564,E-ticarət,2023
+565,Pərakəndə (Retail),2024
+566,E-ticarət,2024
+567,Pərakəndə (Retail),2023
+568,Korporativ,2024
+569,Korporativ,2024
+570,Fərdi,2023
+571,E-ticarət,2024
+572,Pərakəndə (Retail),2025
+573,Korporativ,2023
+574,E-ticarət,2024
+575,Fərdi,2023
+576,E-ticarət,2024
+577,E-ticarət,2024
+578,Pərakəndə (Retail),2023
+579,E-ticarət,2023
+580,Fərdi,2024
+581,Korporativ,2023
+582,Fərdi,2024
+583,Pərakəndə (Retail),2022
+584,Pərakəndə (Retail),2025
+585,Fərdi,2024
+586,E-ticarət,2025
+587,Fərdi,2022
+588,E-ticarət,2024
+589,Korporativ,2024
+590,E-ticarət,2023
+591,Korporativ,2023
+592,E-ticarət,2022
+593,Fərdi,2024
+594,Fərdi,2024
+595,Fərdi,2022
+596,E-ticarət,2024
+597,Pərakəndə (Retail),2023
+598,Korporativ,2022
+599,E-ticarət,2025
+600,E-ticarət,2025
+601,E-ticarət,2024
+602,Pərakəndə (Retail),2022
+603,Korporativ,2024
+604,Korporativ,2023
+605,E-ticarət,2023
+606,E-ticarət,2023
+607,E-ticarət,2024
+608,Fərdi,2024
+609,E-ticarət,2023
+610,E-ticarət,2024
+611,E-ticarət,2025
+612,Pərakəndə (Retail),2023
+613,Fərdi,2024
+614,Pərakəndə (Retail),2025
+615,Pərakəndə (Retail),2023
+616,Korporativ,2023
+617,E-ticarət,2024
+618,Fərdi,2024
+619,Pərakəndə (Retail),2024
+620,Pərakəndə (Retail),2023
+621,Pərakəndə (Retail),2025
+622,Pərakəndə (Retail),2022
+623,Pərakəndə (Retail),2022
+624,Fərdi,2024
+625,Fərdi,2023
+626,Pərakəndə (Retail),2023
+627,Pərakəndə (Retail),2023
+628,E-ticarət,2023
+629,Pərakəndə (Retail),2022
+630,E-ticarət,2025
+631,Korporativ,2023
+632,Fərdi,2024
+633,Korporativ,2024
+634,Korporativ,2025
+635,E-ticarət,2022
+636,E-ticarət,2025
+637,Pərakəndə (Retail),2024
+638,E-ticarət,2024
+639,E-ticarət,2024
+640,Korporativ,2024
+641,Pərakəndə (Retail),2023
+642,Pərakəndə (Retail),2024
+643,E-ticarət,2024
+644,Korporativ,2024
+645,Korporativ,2025
+646,Pərakəndə (Retail),2023
+647,Pərakəndə (Retail),2025
+648,E-ticarət,2022
+649,Korporativ,2022
+650,Korporativ,2022
+651,Fərdi,2023
+652,Korporativ,2024
+653,Korporativ,2022
+654,E-ticarət,2022
+655,Korporativ,2025
+656,Pərakəndə (Retail),2024
+657,Korporativ,2024
+658,Pərakəndə (Retail),2025
+659,Pərakəndə (Retail),2024
+660,Korporativ,2022
+661,Korporativ,2023
+662,Fərdi,2024
+663,E-ticarət,2023
+664,Korporativ,2024
+665,Fərdi,2022
+666,E-ticarət,2023
+667,E-ticarət,2024
+668,E-ticarət,2024
+669,Fərdi,2024
+670,E-ticarət,2024
+671,E-ticarət,2022
+672,E-ticarət,2022
+673,E-ticarət,2025
+674,E-ticarət,2024
+675,Korporativ,2022
+676,Korporativ,2024
+677,E-ticarət,2023
+678,E-ticarət,2023
+679,E-ticarət,2022
+680,E-ticarət,2024
+681,Korporativ,2024
+682,Pərakəndə (Retail),2023
+683,E-ticarət,2025
+684,Korporativ,2023
+685,E-ticarət,2023
+686,Fərdi,2023
+687,Pərakəndə (Retail),2023
+688,Korporativ,2022
+689,E-ticarət,2024
+690,Fərdi,2024
+691,E-ticarət,2024
+692,E-ticarət,2023
+693,E-ticarət,2022
+694,E-ticarət,2023
+695,Fərdi,2023
+696,Pərakəndə (Retail),2024
+697,E-ticarət,2023
+698,Korporativ,2024
+699,Fərdi,2025
+700,Fərdi,2023
+701,Pərakəndə (Retail),2024
+702,Fərdi,2024
+703,Fərdi,2024
+704,Pərakəndə (Retail),2024
+705,E-ticarət,2023
+706,E-ticarət,2023
+707,Fərdi,2023
+708,E-ticarət,2023
+709,Fərdi,2024
+710,E-ticarət,2022
+711,E-ticarət,2025
+712,E-ticarət,2024
+713,E-ticarət,2023
+714,Fərdi,2023
+715,Fərdi,2025
+716,Pərakəndə (Retail),2024
+717,Pərakəndə (Retail),2024
+718,E-ticarət,2023
+719,Korporativ,2023
+720,Korporativ,2022
+721,Korporativ,2023
+722,E-ticarət,2024
+723,Korporativ,2024
+724,Korporativ,2024
+725,Fərdi,2025
+726,Fərdi,2024
+727,Korporativ,2023
+728,Pərakəndə (Retail),2023
+729,Pərakəndə (Retail),2025
+730,E-ticarət,2022
+731,Fərdi,2025
+732,Fərdi,2024
+733,Korporativ,2022
+734,E-ticarət,2024
+735,E-ticarət,2025
+736,Korporativ,2024
+737,E-ticarət,2025
+738,Fərdi,2025
+739,E-ticarət,2023
+740,E-ticarət,2023
+741,Fərdi,2025
+742,Pərakəndə (Retail),2024
+743,E-ticarət,2022
+744,E-ticarət,2022
+745,E-ticarət,2024
+746,Pərakəndə (Retail),2025
+747,E-ticarət,2024
+748,Korporativ,2024
+749,Fərdi,2022
+750,E-ticarət,2023
+751,Fərdi,2025
+752,Fərdi,2023
+753,E-ticarət,2023
+754,Fərdi,2022
+755,Korporativ,2024
+756,Fərdi,2025
+757,Korporativ,2023
+758,Pərakəndə (Retail),2023
+759,Korporativ,2024
+760,Fərdi,2025
+761,Pərakəndə (Retail),2022
+762,Korporativ,2023
+763,Fərdi,2023
+764,E-ticarət,2025
+765,E-ticarət,2023
+766,E-ticarət,2022
+767,E-ticarət,2024
+768,E-ticarət,2024
+769,Fərdi,2022
+770,E-ticarət,2025
+771,Pərakəndə (Retail),2023
+772,E-ticarət,2024
+773,Fərdi,2023
+774,Fərdi,2024
+775,Korporativ,2023
+776,Fərdi,2025
+777,E-ticarət,2024
+778,Pərakəndə (Retail),2024
+779,E-ticarət,2024
+780,Fərdi,2024
+781,E-ticarət,2022
+782,Korporativ,2023
+783,Pərakəndə (Retail),2025
+784,E-ticarət,2022
+785,E-ticarət,2024
+786,E-ticarət,2025
+787,E-ticarət,2022
+788,Korporativ,2024
+789,E-ticarət,2023
+790,E-ticarət,2024
+791,E-ticarət,2022
+792,Pərakəndə (Retail),2022
+793,E-ticarət,2024
+794,E-ticarət,2024
+795,E-ticarət,2024
+796,Korporativ,2024
+797,Fərdi,2022
+798,E-ticarət,2024
+799,E-ticarət,2023
+800,Pərakəndə (Retail),2025
+801,Pərakəndə (Retail),2024
+802,E-ticarət,2024
+803,Pərakəndə (Retail),2025
+804,Fərdi,2022
+805,E-ticarət,2024
+806,Pərakəndə (Retail),2023
+807,Pərakəndə (Retail),2025
+808,Korporativ,2023
+809,E-ticarət,2024
+810,E-ticarət,2025
+811,Fərdi,2022
+812,Fərdi,2023
+813,Pərakəndə (Retail),2024
+814,Korporativ,2023
+815,Pərakəndə (Retail),2023
+816,Korporativ,2023
+817,E-ticarət,2022
+818,E-ticarət,2025
+819,Fərdi,2024
+820,E-ticarət,2022
+821,Pərakəndə (Retail),2023
+822,E-ticarət,2023
+823,E-ticarət,2023
+824,E-ticarət,2023
+825,Korporativ,2023
+826,Fərdi,2023
+827,E-ticarət,2024
+828,Fərdi,2023
+829,Korporativ,2024
+830,Fərdi,2024
+831,E-ticarət,2024
+832,Fərdi,2024
+833,Pərakəndə (Retail),2024
+834,E-ticarət,2025
+835,E-ticarət,2024
+836,Fərdi,2024
+837,Fərdi,2024
+838,E-ticarət,2024
+839,Pərakəndə (Retail),2023
+840,Fərdi,2023
+841,Fərdi,2023
+842,Fərdi,2025
+843,Pərakəndə (Retail),2024
+844,Korporativ,2025
+845,E-ticarət,2024
+846,E-ticarət,2023
+847,Pərakəndə (Retail),2022
+848,Pərakəndə (Retail),2024
+849,E-ticarət,2024
+850,Fərdi,2025
+851,Pərakəndə (Retail),2023
+852,Korporativ,2024
+853,Korporativ,2024
+854,Korporativ,2024
+855,E-ticarət,2024
+856,E-ticarət,2024
+857,E-ticarət,2023
+858,E-ticarət,2024
+859,Korporativ,2024
+860,Korporativ,2025
+861,E-ticarət,2024
+862,Pərakəndə (Retail),2023
+863,E-ticarət,2023
+864,Fərdi,2025
+865,Fərdi,2024
+866,E-ticarət,2025
+867,Korporativ,2023
+868,E-ticarət,2024
+869,Korporativ,2024
+870,Pərakəndə (Retail),2025
+871,E-ticarət,2023
+872,Korporativ,2024
+873,E-ticarət,2024
+874,E-ticarət,2022
+875,Pərakəndə (Retail),2024
+876,E-ticarət,2024
+877,Korporativ,2025
+878,Korporativ,2023
+879,Fərdi,2023
+880,E-ticarət,2022
+881,Korporativ,2023
+882,Pərakəndə (Retail),2023
+883,E-ticarət,2024
+884,Fərdi,2023
+885,Pərakəndə (Retail),2025
+886,Pərakəndə (Retail),2025
+887,Pərakəndə (Retail),2024
+888,Fərdi,2025
+889,Fərdi,2024
+890,Pərakəndə (Retail),2024
+891,Pərakəndə (Retail),2023
+892,E-ticarət,2023
+893,E-ticarət,2024
+894,Korporativ,2025
+895,E-ticarət,2023
+896,Korporativ,2025
+897,E-ticarət,2024
+898,E-ticarət,2022
+899,Pərakəndə (Retail),2025
+900,Fərdi,2024
+901,E-ticarət,2023
+902,Korporativ,2024
+903,Fərdi,2022
+904,E-ticarət,2024
+905,Fərdi,2023
+906,E-ticarət,2023
+907,E-ticarət,2025
+908,Fərdi,2024
+909,E-ticarət,2023
+910,Pərakəndə (Retail),2023
+911,Fərdi,2025
+912,E-ticarət,2023
+913,Pərakəndə (Retail),2023
+914,Fərdi,2022
+915,E-ticarət,2022
+916,Fərdi,2024
+917,Korporativ,2024
+918,Pərakəndə (Retail),2023
+919,Pərakəndə (Retail),2024
+920,E-ticarət,2023
+921,Fərdi,2025
+922,Fərdi,2025
+923,Pərakəndə (Retail),2023
+924,Pərakəndə (Retail),2025
+925,Pərakəndə (Retail),2024
+926,Korporativ,2023
+927,Pərakəndə (Retail),2023
+928,Korporativ,2023
+929,Korporativ,2024
+930,Pərakəndə (Retail),2025
+931,Korporativ,2024
+932,E-ticarət,2025
+933,E-ticarət,2024
+934,Korporativ,2024
+935,Pərakəndə (Retail),2024
+936,Korporativ,2023
+937,Pərakəndə (Retail),2024
+938,Korporativ,2024
+939,Pərakəndə (Retail),2022
+940,E-ticarət,2024
+941,Korporativ,2023
+942,Pərakəndə (Retail),2024
+943,Fərdi,2024
+944,Korporativ,2023
+945,E-ticarət,2023
+946,E-ticarət,2023
+947,E-ticarət,2025
+948,Pərakəndə (Retail),2022
+949,E-ticarət,2025
+950,Korporativ,2023
+951,Korporativ,2025
+952,E-ticarət,2025
+953,E-ticarət,2023
+954,E-ticarət,2024
+955,E-ticarət,2023
+956,E-ticarət,2024
+957,Fərdi,2022
+958,E-ticarət,2022
+959,Fərdi,2022
+960,E-ticarət,2023
+961,Fərdi,2023
+962,Pərakəndə (Retail),2024
+963,Pərakəndə (Retail),2025
+964,Pərakəndə (Retail),2023
+965,Korporativ,2024
+966,Korporativ,2023
+967,Korporativ,2024
+968,Korporativ,2025
+969,E-ticarət,2025
+970,E-ticarət,2025
+971,Pərakəndə (Retail),2022
+972,Korporativ,2024
+973,Pərakəndə (Retail),2024
+974,Pərakəndə (Retail),2023
+975,Fərdi,2025
+976,E-ticarət,2022
+977,E-ticarət,2024
+978,E-ticarət,2023
+979,Korporativ,2023
+980,Fərdi,2024
+981,E-ticarət,2024
+982,Pərakəndə (Retail),2023
+983,E-ticarət,2023
+984,Pərakəndə (Retail),2024
+985,Pərakəndə (Retail),2022
+986,E-ticarət,2023
+987,Korporativ,2025
+988,E-ticarət,2024
+989,E-ticarət,2023
+990,Korporativ,2024
+991,E-ticarət,2024
+992,E-ticarət,2025
+993,Korporativ,2024
+994,Korporativ,2023
+995,Pərakəndə (Retail),2023
+996,E-ticarət,2023
+997,Pərakəndə (Retail),2024
+998,E-ticarət,2022
+999,E-ticarət,2024
+1000,Fərdi,2023
+1001,E-ticarət,2023
+1002,Korporativ,2025
+1003,Korporativ,2023
+1004,E-ticarət,2022
+1005,E-ticarət,2024
+1006,E-ticarət,2022
+1007,Fərdi,2024
+1008,Korporativ,2024
+1009,E-ticarət,2023
+1010,Korporativ,2024
+1011,Pərakəndə (Retail),2024
+1012,E-ticarət,2023
+1013,Korporativ,2022
+1014,Korporativ,2023
+1015,Fərdi,2025
+1016,E-ticarət,2023
+1017,E-ticarət,2024
+1018,E-ticarət,2024
+1019,Pərakəndə (Retail),2024
+1020,E-ticarət,2022
+1021,Korporativ,2023
+1022,Pərakəndə (Retail),2024
+1023,Pərakəndə (Retail),2023
+1024,Korporativ,2023
+1025,Fərdi,2022
+1026,Korporativ,2023
+1027,Korporativ,2025
+1028,E-ticarət,2022
+1029,Fərdi,2023
+1030,E-ticarət,2023
+1031,E-ticarət,2024
+1032,E-ticarət,2024
+1033,Pərakəndə (Retail),2023
+1034,E-ticarət,2024
+1035,E-ticarət,2024
+1036,E-ticarət,2025
+1037,E-ticarət,2024
+1038,Korporativ,2023
+1039,Pərakəndə (Retail),2023
+1040,E-ticarət,2022
+1041,Korporativ,2023
+1042,Pərakəndə (Retail),2025
+1043,E-ticarət,2023
+1044,E-ticarət,2023
+1045,Fərdi,2024
+1046,Korporativ,2024
+1047,E-ticarət,2022
+1048,Korporativ,2023
+1049,E-ticarət,2023
+1050,Korporativ,2024
+1051,E-ticarət,2022
+1052,E-ticarət,2023
+1053,E-ticarət,2024
+1054,Fərdi,2023
+1055,Pərakəndə (Retail),2024
+1056,E-ticarət,2023
+1057,E-ticarət,2023
+1058,Pərakəndə (Retail),2025
+1059,E-ticarət,2024
+1060,E-ticarət,2022
+1061,Fərdi,2024
+1062,E-ticarət,2024
+1063,Pərakəndə (Retail),2024
+1064,Fərdi,2023
+1065,E-ticarət,2025
+1066,E-ticarət,2023
+1067,E-ticarət,2023
+1068,Fərdi,2023
+1069,Fərdi,2022
+1070,Pərakəndə (Retail),2024
+1071,E-ticarət,2022
+1072,Pərakəndə (Retail),2022
+1073,Fərdi,2025
+1074,Pərakəndə (Retail),2023
+1075,Fərdi,2022
+1076,Fərdi,2022
+1077,Pərakəndə (Retail),2022
+1078,Korporativ,2023
+1079,E-ticarət,2024
+1080,E-ticarət,2023
+1081,Pərakəndə (Retail),2022
+1082,E-ticarət,2024
+1083,Fərdi,2024
+1084,Fərdi,2023
+1085,Pərakəndə (Retail),2024
+1086,E-ticarət,2023
+1087,E-ticarət,2023
+1088,E-ticarət,2024
+1089,Pərakəndə (Retail),2023
+1090,Pərakəndə (Retail),2025
+1091,Fərdi,2022
+1092,Korporativ,2024
+1093,Fərdi,2022
+1094,Fərdi,2024
+1095,E-ticarət,2024
+1096,Fərdi,2024
+1097,E-ticarət,2022
+1098,E-ticarət,2024
+1099,Pərakəndə (Retail),2024
+1100,E-ticarət,2024
+1101,Pərakəndə (Retail),2024
+1102,Pərakəndə (Retail),2024
+1103,Korporativ,2023
+1104,E-ticarət,2023
+1105,Korporativ,2023
+1106,Korporativ,2022
+1107,Korporativ,2025
+1108,Korporativ,2024
+1109,E-ticarət,2025
+1110,Korporativ,2023
+1111,E-ticarət,2025
+1112,Pərakəndə (Retail),2024
+1113,Pərakəndə (Retail),2024
+1114,Korporativ,2024
+1115,Korporativ,2023
+1116,Fərdi,2024
+1117,Fərdi,2024
+1118,Fərdi,2022
+1119,Pərakəndə (Retail),2023
+1120,E-ticarət,2025
+1121,E-ticarət,2025
+1122,Korporativ,2025
+1123,E-ticarət,2024
+1124,Korporativ,2023
+1125,E-ticarət,2023
+1126,Korporativ,2023
+1127,Pərakəndə (Retail),2022
+1128,Pərakəndə (Retail),2023
+1129,Korporativ,2023
+1130,Fərdi,2023
+1131,Korporativ,2025
+1132,Fərdi,2023
+1133,E-ticarət,2025
+1134,Fərdi,2024
+1135,Pərakəndə (Retail),2023
+1136,E-ticarət,2023
+1137,E-ticarət,2022
+1138,Korporativ,2023
+1139,E-ticarət,2024
+1140,E-ticarət,2022
+1141,Pərakəndə (Retail),2023
+1142,Korporativ,2023
+1143,Pərakəndə (Retail),2025
+1144,Fərdi,2024
+1145,Korporativ,2024
+1146,Korporativ,2022
+1147,E-ticarət,2024
+1148,Pərakəndə (Retail),2024
+1149,E-ticarət,2024
+1150,Fərdi,2025
+1151,Fərdi,2023
+1152,Korporativ,2025
+1153,E-ticarət,2025
+1154,Fərdi,2022
+1155,Pərakəndə (Retail),2023
+1156,E-ticarət,2025
+1157,E-ticarət,2022
+1158,Pərakəndə (Retail),2024
+1159,E-ticarət,2025
+1160,Fərdi,2024
+1161,Korporativ,2023
+1162,E-ticarət,2024
+1163,Pərakəndə (Retail),2023
+1164,E-ticarət,2024
+1165,Korporativ,2022
+1166,E-ticarət,2024
+1167,E-ticarət,2024
+1168,Pərakəndə (Retail),2024
+1169,Korporativ,2024
+1170,Korporativ,2024
+1171,Pərakəndə (Retail),2024
+1172,Pərakəndə (Retail),2022
+1173,E-ticarət,2024
+1174,E-ticarət,2023
+1175,Fərdi,2025
+1176,Pərakəndə (Retail),2022
+1177,Korporativ,2023
+1178,E-ticarət,2024
+1179,E-ticarət,2023
+1180,Pərakəndə (Retail),2022
+1181,Fərdi,2024
+1182,Pərakəndə (Retail),2024
+1183,Pərakəndə (Retail),2024
+1184,Pərakəndə (Retail),2023
+1185,E-ticarət,2024
+1186,Korporativ,2023
+1187,E-ticarət,2024
+1188,E-ticarət,2024
+1189,Fərdi,2024
+1190,Korporativ,2023
+1191,Korporativ,2022
+1192,E-ticarət,2023
+1193,E-ticarət,2022
+1194,E-ticarət,2023
+1195,E-ticarət,2024
+1196,Pərakəndə (Retail),2023
+1197,E-ticarət,2025
+1198,Pərakəndə (Retail),2022
+1199,E-ticarət,2024
+1200,E-ticarət,2024
+1201,E-ticarət,2023
+1202,Korporativ,2022
+1203,Pərakəndə (Retail),2024
+1204,Korporativ,2023
+1205,Korporativ,2025
+1206,Pərakəndə (Retail),2024
+1207,E-ticarət,2025
+1208,E-ticarət,2023
+1209,Pərakəndə (Retail),2024
+1210,Pərakəndə (Retail),2024
+1211,E-ticarət,2024
+1212,Fərdi,2023
+1213,Pərakəndə (Retail),2024
+1214,E-ticarət,2023
+1215,Pərakəndə (Retail),2024
+1216,Korporativ,2023
+1217,E-ticarət,2025
+1218,E-ticarət,2022
+1219,E-ticarət,2024
+1220,Pərakəndə (Retail),2025
+1221,Korporativ,2024
+1222,Fərdi,2024
+1223,Pərakəndə (Retail),2023
+1224,E-ticarət,2025
+1225,Pərakəndə (Retail),2023
+1226,E-ticarət,2024
+1227,Korporativ,2024
+1228,Pərakəndə (Retail),2024
+1229,E-ticarət,2023
+1230,Korporativ,2024
+1231,E-ticarət,2024
+1232,E-ticarət,2022
+1233,E-ticarət,2025
+1234,E-ticarət,2022
+1235,Fərdi,2023
+1236,Korporativ,2022
+1237,E-ticarət,2022
+1238,Korporativ,2025
+1239,E-ticarət,2023
+1240,Fərdi,2023
+1241,Pərakəndə (Retail),2023
+1242,Pərakəndə (Retail),2024
+1243,E-ticarət,2024
+1244,E-ticarət,2023
+1245,Korporativ,2023
+1246,Fərdi,2025
+1247,E-ticarət,2023
+1248,E-ticarət,2023
+1249,Fərdi,2023
+1250,Korporativ,2024
+1251,E-ticarət,2023
+1252,E-ticarət,2024
+1253,Fərdi,2023
+1254,E-ticarət,2025
+1255,Pərakəndə (Retail),2023
+1256,Pərakəndə (Retail),2024
+1257,E-ticarət,2023
+1258,Pərakəndə (Retail),2023
+1259,E-ticarət,2024
+1260,E-ticarət,2023
+1261,Pərakəndə (Retail),2025
+1262,Fərdi,2025
+1263,Pərakəndə (Retail),2025
+1264,Korporativ,2022
+1265,E-ticarət,2024
+1266,E-ticarət,2023
+1267,E-ticarət,2025
+1268,E-ticarət,2024
+1269,E-ticarət,2024
+1270,E-ticarət,2023
+1271,E-ticarət,2024
+1272,E-ticarət,2022
+1273,Korporativ,2024
+1274,Fərdi,2023
+1275,E-ticarət,2024
+1276,Fərdi,2024
+1277,Fərdi,2024
+1278,E-ticarət,2023
+1279,Pərakəndə (Retail),2024
+1280,Korporativ,2023
+1281,Korporativ,2023
+1282,E-ticarət,2022
+1283,Korporativ,2023
+1284,E-ticarət,2023
+1285,Korporativ,2024
+1286,Pərakəndə (Retail),2022
+1287,Pərakəndə (Retail),2023
+1288,Korporativ,2025
+1289,Pərakəndə (Retail),2022
+1290,E-ticarət,2024
+1291,E-ticarət,2024
+1292,Pərakəndə (Retail),2025
+1293,E-ticarət,2024
+1294,E-ticarət,2024
+1295,E-ticarət,2024
+1296,E-ticarət,2023
+1297,Fərdi,2024
+1298,Korporativ,2022
+1299,Fərdi,2025
+1300,Korporativ,2023
+1301,Korporativ,2024
+1302,E-ticarət,2023
+1303,Pərakəndə (Retail),2024
+1304,E-ticarət,2022
+1305,Fərdi,2025
+1306,Fərdi,2024
+1307,E-ticarət,2023
+1308,Fərdi,2024
+1309,Fərdi,2024
+1310,Pərakəndə (Retail),2024
+1311,E-ticarət,2023
+1312,Korporativ,2023
+1313,Korporativ,2023
+1314,E-ticarət,2023
+1315,E-ticarət,2025
+1316,Pərakəndə (Retail),2022
+1317,E-ticarət,2024
+1318,Korporativ,2023
+1319,Fərdi,2024
+1320,Fərdi,2024
+1321,E-ticarət,2025
+1322,Fərdi,2023
+1323,E-ticarət,2023
+1324,E-ticarət,2023
+1325,Pərakəndə (Retail),2022
+1326,E-ticarət,2023
+1327,E-ticarət,2023
+1328,Korporativ,2023
+1329,E-ticarət,2024
+1330,E-ticarət,2023
+1331,Korporativ,2023
+1332,Pərakəndə (Retail),2023
+1333,Pərakəndə (Retail),2024
+1334,E-ticarət,2025
+1335,Korporativ,2024
+1336,E-ticarət,2024
+1337,E-ticarət,2023
+1338,Pərakəndə (Retail),2024
+1339,E-ticarət,2023
+1340,E-ticarət,2023
+1341,Pərakəndə (Retail),2024
+1342,Pərakəndə (Retail),2025
+1343,Pərakəndə (Retail),2022
+1344,E-ticarət,2024
+1345,E-ticarət,2024
+1346,E-ticarət,2022
+1347,E-ticarət,2023
+1348,Pərakəndə (Retail),2023
+1349,Fərdi,2023
+1350,Pərakəndə (Retail),2023
+1351,Pərakəndə (Retail),2023
+1352,E-ticarət,2023
+1353,Pərakəndə (Retail),2024
+1354,E-ticarət,2024
+1355,Korporativ,2025
+1356,Korporativ,2023
+1357,E-ticarət,2024
+1358,E-ticarət,2025
+1359,Fərdi,2024
+1360,E-ticarət,2023
+1361,E-ticarət,2024
+1362,E-ticarət,2023
+1363,Pərakəndə (Retail),2023
+1364,Korporativ,2024
+1365,Pərakəndə (Retail),2024
+1366,E-ticarət,2022
+1367,Pərakəndə (Retail),2025
+1368,E-ticarət,2024
+1369,Fərdi,2023
+1370,Pərakəndə (Retail),2025
+1371,E-ticarət,2023
+1372,E-ticarət,2025
+1373,E-ticarət,2024
+1374,E-ticarət,2022
+1375,E-ticarət,2024
+1376,Pərakəndə (Retail),2024
+1377,Korporativ,2024
+1378,E-ticarət,2025
+1379,E-ticarət,2024
+1380,E-ticarət,2024
+1381,Fərdi,2025
+1382,E-ticarət,2024
+1383,Pərakəndə (Retail),2023
+1384,Pərakəndə (Retail),2025
+1385,Pərakəndə (Retail),2023
+1386,Fərdi,2024
+1387,E-ticarət,2025
+1388,Fərdi,2024
+1389,E-ticarət,2024
+1390,E-ticarət,2024
+1391,Pərakəndə (Retail),2023
+1392,Fərdi,2025
+1393,Pərakəndə (Retail),2023
+1394,E-ticarət,2022
+1395,E-ticarət,2023
+1396,Fərdi,2024
+1397,E-ticarət,2024
+1398,Pərakəndə (Retail),2024
+1399,Fərdi,2023
+1400,Korporativ,2023
+1401,E-ticarət,2022
+1402,Korporativ,2023
+1403,E-ticarət,2024
+1404,Fərdi,2022
+1405,Korporativ,2023
+1406,Fərdi,2023
+1407,E-ticarət,2022
+1408,Fərdi,2023
+1409,Korporativ,2023
+1410,E-ticarət,2024
+1411,E-ticarət,2024
+1412,Pərakəndə (Retail),2024
+1413,Pərakəndə (Retail),2025
+1414,Pərakəndə (Retail),2023
+1415,E-ticarət,2024
+1416,E-ticarət,2025
+1417,Korporativ,2023
+1418,E-ticarət,2025
+1419,Korporativ,2022
+1420,Fərdi,2023
+1421,Fərdi,2022
+1422,Fərdi,2024
+1423,Pərakəndə (Retail),2024
+1424,E-ticarət,2024
+1425,E-ticarət,2023
+1426,Korporativ,2023
+1427,Fərdi,2022
+1428,E-ticarət,2023
+1429,Korporativ,2025
+1430,E-ticarət,2023
+1431,Korporativ,2024
+1432,Fərdi,2024
+1433,Pərakəndə (Retail),2023
+1434,E-ticarət,2024
+1435,Fərdi,2022
+1436,Pərakəndə (Retail),2022
+1437,E-ticarət,2022
+1438,E-ticarət,2024
+1439,E-ticarət,2023
+1440,E-ticarət,2024
+1441,Fərdi,2024
+1442,Korporativ,2023
+1443,Fərdi,2024
+1444,E-ticarət,2024
+1445,E-ticarət,2022
+1446,Korporativ,2023
+1447,E-ticarət,2024
+1448,Korporativ,2023
+1449,Fərdi,2024
+1450,Korporativ,2023
+1451,Pərakəndə (Retail),2023
+1452,E-ticarət,2023
+1453,E-ticarət,2023
+1454,E-ticarət,2024
+1455,Korporativ,2023
+1456,E-ticarət,2024
+1457,E-ticarət,2025
+1458,Korporativ,2024
+1459,E-ticarət,2024
+1460,E-ticarət,2023
+1461,E-ticarət,2023
+1462,Fərdi,2024
+1463,Pərakəndə (Retail),2023
+1464,Korporativ,2024
+1465,E-ticarət,2023
+1466,Fərdi,2024
+1467,Pərakəndə (Retail),2025
+1468,E-ticarət,2025
+1469,Fərdi,2024
+1470,E-ticarət,2024
+1471,Korporativ,2024
+1472,Pərakəndə (Retail),2024
+1473,E-ticarət,2022
+1474,Fərdi,2023
+1475,Pərakəndə (Retail),2023
+1476,Korporativ,2025
+1477,E-ticarət,2023
+1478,E-ticarət,2024
+1479,E-ticarət,2024
+1480,Pərakəndə (Retail),2024
+1481,E-ticarət,2024
+1482,Korporativ,2023
+1483,Pərakəndə (Retail),2024
+1484,E-ticarət,2024
+1485,Pərakəndə (Retail),2023
+1486,E-ticarət,2023
+1487,Fərdi,2024
+1488,Korporativ,2024
+1489,E-ticarət,2022
+1490,E-ticarət,2024
+1491,E-ticarət,2024
+1492,Pərakəndə (Retail),2023
+1493,Pərakəndə (Retail),2025
+1494,Pərakəndə (Retail),2024
+1495,E-ticarət,2024
+1496,E-ticarət,2024
+1497,E-ticarət,2023
+1498,Korporativ,2023
+1499,Fərdi,2023
+1500,Korporativ,2023
