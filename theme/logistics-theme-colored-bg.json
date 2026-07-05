@@ -1,0 +1,51 @@
+{
+  "name": "Logistics Colored Background Theme",
+  "dataColors": [
+    "#0A6E6E",
+    "#FF7A00",
+    "#1FA36B",
+    "#2E5AAC",
+    "#D62839",
+    "#7B2CBF",
+    "#C9A227",
+    "#5C4033"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#111111",
+  "tableAccent": "#0A6E6E",
+  "good": "#1FA36B",
+  "neutral": "#FF7A00",
+  "bad": "#D62839",
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [
+          { "color": { "solid": { "color": "#EAF2F1" } }, "transparency": 0 }
+        ]
+      }
+    },
+    "*": {
+      "*": {
+        "background": [
+          { "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }
+        ],
+        "border": [
+          { "show": true, "color": { "solid": { "color": "#0A6E6E" } }, "radius": 8 }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [
+          { "show": true, "color": { "solid": { "color": "#0A6E6E" } }, "transparency": 0 }
+        ],
+        "labels": [
+          { "color": { "solid": { "color": "#FFFFFF" } }, "fontSize": 32 }
+        ],
+        "categoryLabels": [
+          { "color": { "solid": { "color": "#EAF2F1" } }, "fontSize": 12 }
+        ]
+      }
+    }
+  }
+}
