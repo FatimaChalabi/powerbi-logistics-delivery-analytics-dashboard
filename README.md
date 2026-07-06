@@ -62,16 +62,16 @@ dim_customer ┘
 ## 📸 Screenshots
 
 ### 1. Executive Overview
-![Executive Overview](./screenshots/page_01_executive_overview.jpg)
+![Executive Overview](./SCREENSHOTS/page_01_executive_overview.jpg)
 
 ### 2. Delivery Performance
-![Delivery Performance](./screenshots/page_02_delivery_performance.jpg)
+![Delivery Performance](./SCREENSHOTS/page_02_delivery_performance.jpg)
 
 ### 3. Driver & Fleet Analysis
-![Driver & Fleet Analysis](./screenshots/page_03_driver_fleet_analysis.jpg)
+![Driver & Fleet Analysis](./SCREENSHOTS/page_03_driver_fleet_analysis.jpg)
 
 ### 4. Customer & SLA Insights
-![Customer & SLA Insights](./screenshots/page_04_customer_sla_insights.jpg)
+![Customer & SLA Insights](./SCREENSHOTS/page_04_customer_sla_insights.jpg)
 
 ### 5. Profitability & Simulation
-![Profitability & Simulation](./screenshots/page_05_profitability_simulation.jpg)
+![Profitability & Simulation](./SCREENSHOTS/page_05_profitability_simulation.jpg)
