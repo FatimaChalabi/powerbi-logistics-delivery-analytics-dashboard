@@ -47,3 +47,16 @@ dim_customer ┘
 - **dim_vehicle** — 67 vehicles (Motosiklet / Kiçik Furqon / Furqon / Yük Maşını)
 - **dim_driver** — 88 drivers with experience & rating
 - **dim_customer** — 1,500 customers across 4 segments
+
+---
+
+## 🛠️ Tech Stack
+
+- **Power BI Desktop** — data modeling, DAX, visuals
+- **Python (pandas, numpy)** — dataset generation
+- **What-If Parameters** — fuel price sensitivity simulation
+- **Custom Power BI Theme** — consistent color palette across all 5 pages
+
+---
+
+
