@@ -36,3 +36,58 @@ RETURN DIVIDE(Last12M - Prior12M, Prior12M)
 ```
 
 ---
+
+## Delivery Performance
+
+```dax
+SLA Breach Rate % =
+DIVIDE(
+    CALCULATE([Total Deliveries], fact_deliveries[Status] = "Gecikmiş"),
+    [Total Deliveries]
+)
+
+Avg Delivery Time (hrs) = AVERAGE(fact_deliveries[ActualHours])
+```
+
+---
+
+## Driver & Fleet Analysis
+
+```dax
+Avg Driver Rating = AVERAGE(fact_deliveries[CustomerRating])
+
+Deliveries per Driver = DIVIDE([Total Deliveries], DISTINCTCOUNT(fact_deliveries[DriverID]))
+```
+
+---
+
+## Customer & SLA Insights
+
+```dax
+Failed Deliveries = CALCULATE([Total Deliveries], fact_deliveries[Status] = "Uğursuz")
+
+Failure Rate % = DIVIDE([Failed Deliveries], [Total Deliveries])
+```
+
+---
+
+## Profitability & Simulation
+
+Requires a **What-If Parameter** first:
+`Modeling → New Parameter → Numeric range` — Name: `Fuel Price Multiplier`, Min: 0.7, Max: 1.5,
+Increment: 0.05, Default: 1.0
+
+```dax
+Simulated Fuel Cost =
+SUMX(fact_deliveries, fact_deliveries[FuelCost]) * SELECTEDVALUE('Fuel Price Multiplier'[Fuel Price Multiplier], 1)
+
+Simulated Total Cost = [Simulated Fuel Cost] + SUM(fact_deliveries[DeliveryCost])
+
+Simulated Profit = [Total Revenue] - [Simulated Total Cost]
+
+Simulated Margin % = DIVIDE([Simulated Profit], [Total Revenue])
+
+Cost per Km = DIVIDE([Total Cost], SUM(fact_deliveries[DistanceKm]))
+
+Revenue per Km = DIVIDE([Total Revenue], SUM(fact_deliveries[DistanceKm]))
+```
